@@ -1,20 +1,12 @@
 ## Welcome to Visualisa 👋
 
-![Creative Agency Banner](https://github.com/user-attachments/assets/73d2a633-ef8b-4898-9527-6f78b80fbaad)
+![logo](https://github.com/user-attachments/assets/fa2f4f56-4c27-4124-9b87-64f260e7184b)
 
-At [Visualisa](https://visualisa.xyz/), We provide end-to-end services for implementing blockchain into your business or project, from infrastructure selection and setting up custom solutions to designing architecture, developing smart contracts and providing ongoing monitoring and support.
+At [Visualisa](https://visualisa.xyz/), we focus on blockchain security. Our mission is to help teams ship safer smart contracts through high-quality audits, deep technical reviews, and hands-on research.
 
-## Our services
+We combine real development experience with a sharp eye for vulnerabilities, delivering audits that go beyond checklists and surface-level analysis.
 
-- Cross-Chain Bridges Development
-- Core Protocol Development
-- Decentralized Organizations (DAOs)
-- Tech Team Extension
-- NFT Marketplace Development
-- Decentralized Exchange (DEX) Development
-- Decentralized Application (dApp) Development
-- Wallet Development and Integration
-
-## Hire us
+## Get your free audit
 
 - Time is of the essence — [send us a message](https://t.me/visualisaxyz).
+
