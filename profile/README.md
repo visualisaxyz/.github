@@ -1,6 +1,6 @@
 ## Welcome to Visualisa 👋
 
-![logo](https://github.com/user-attachments/assets/fa2f4f56-4c27-4124-9b87-64f260e7184b)
+![Minimalistic Creative Agency Banner (1)](https://github.com/user-attachments/assets/31aa2063-1ec6-4d38-9646-e7dae9f2c36c)
 
 At [Visualisa](https://visualisa.xyz/), we focus on blockchain security. Our mission is to help teams ship safer smart contracts through high-quality audits, deep technical reviews, and hands-on research.
 
