@@ -1,12 +1,17 @@
 ## Welcome to Visualisa 👋
 
-![Minimalistic Creative Agency Banner (1)](https://github.com/user-attachments/assets/31aa2063-1ec6-4d38-9646-e7dae9f2c36c)
+<img width="6912" height="3456" alt="Creative Agency Banner (1)" src="https://github.com/user-attachments/assets/0b8774da-96f4-407c-8688-1525be4a55c0" />
 
-At [Visualisa](https://visualisa.xyz/), we focus on blockchain security. Our mission is to help teams ship safer smart contracts through high-quality audits, deep technical reviews, and hands-on research.
+----    
 
-We combine real development experience with a sharp eye for vulnerabilities, delivering audits that go beyond checklists and surface-level analysis.
+At [Visualisa](https://visualisa.xyz/), we build and secure DeFi protocols.     
+We are the team behind [vLend](https://vlend.visualisa.xyz/) — a zero-interest lending protocol on MegaETH.
 
-## Get your free audit
+## What we do
+- **Build** — open-source DeFi infrastructure on MegaETH
+- **Audit** — smart contract security reviews for EVM protocols
 
-- Time is of the essence — [send us a message](https://t.me/visualisaxyz).
 
+## Work with us
+- Inquiries → [t.me/visualisaxyz](https://t.me/visualisaxyz)
+- Follow the build → [@0xMilenov](https://x.com/0xMilenov)
